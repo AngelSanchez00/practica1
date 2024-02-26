@@ -1,0 +1,2 @@
+1. Iniciar una lista llamada "nombres" con los siguientes elementos: "Amaury", "Sergio", "Brandon", "Kevin", "Angel", "Alan", "Miguel", "Gonzalo", "Gael", "Alexander".
+2. Mostrar un mensaje de alerta con el nombre del elemento.
